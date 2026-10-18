@@ -37,7 +37,8 @@ Fraud models ask whether a payment is suspicious. **CascadeGuard asks whether th
 
 ## System Flowchart
 
-![CascadeGuard AI flowchart](flowchart.png)
+<img width="2400" height="1344" alt="image" src="https://github.com/user-attachments/assets/df4e8068-77ad-410d-8f26-279a327a95c2" />
+
 
 ## Dataset
 **RCAEval**, a benchmark of real fault-injection experiments on **Online Boutique**, a demo e-commerce microservice application that includes checkout and payment services.
